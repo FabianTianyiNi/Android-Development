@@ -1,4 +1,4 @@
-## articles
+# articles
 This respository is for some articles of mine regarding a couple of fields, like android development, Artifitial Intelligence, Machine Learning and programming languages.
 
 ### Android Development:
@@ -7,3 +7,6 @@ This respository is for some articles of mine regarding a couple of fields, like
 
 ### Mathematical baseline on Machine Learning
 1. Probability Smoothing
+
+
+##THANK YOU...
